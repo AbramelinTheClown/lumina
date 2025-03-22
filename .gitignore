@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project-specific directories
+stable_diffusion/
+crawl4ai/
+knowledge_base/
+Orpheus-TTS/
+projects/hello_world/venv/
+flash-attention/
